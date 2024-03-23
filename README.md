@@ -10,10 +10,6 @@ ReactSpotify is a web application that mimics some functionalities of Spotify. I
 - Add songs to favorites list
 - View the count of favorite songs
 
-## Screenshots/Demo
-
-[Include screenshots or a demo GIF/video of your project in action, if available]
-
 ## Installation
 
 To run this project locally, follow these steps:
